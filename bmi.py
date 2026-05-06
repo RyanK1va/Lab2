@@ -1,6 +1,4 @@
-weight = 70  # kg
-height = 1.75  # meters
-# YOUR CODE HERE
+
 weight = float(input("Enter yr weight(kg):"))
 height = float(input("Enter yr height(m):"))
 BMI = weight/(height * height)
